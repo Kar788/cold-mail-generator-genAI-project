@@ -1,4 +1,6 @@
 # cold-mail-generator-genAI-project
-The Cold-Mail Generator leverages cutting-edge Generative AI models to craft personalized and effective cold emails, enhancing outreach efforts for sales, networking, and business development. This project uses advanced natural language processing (NLP) techniques to analyze and generate tailored messages based on the recipient's profile, industry, and specific goals.
+Cold email generator for services company using groq, langchain and streamlit. It allows users to input the URL of a company's careers page. The tool then extracts job listings from that page and generates personalized cold emails. These emails include relevant portfolio links sourced from a vector database, based on the specific job descriptions.
+
+
 
 
